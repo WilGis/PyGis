@@ -1,2 +1,2 @@
-# PyGis_Qgis
-Ferramentas Python Qgis
+# PyGis
+Ferramentas desenvolvidas e divulgadas no canal ScriptsPI
