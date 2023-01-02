@@ -1,2 +1,2 @@
 # PyGis
-Ferramentas desenvolvidas e divulgadas no canal ScriptsPI
+Ferramentas desenvolvidas e divulgadas no canal ScriptsPI.
